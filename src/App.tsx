@@ -28,7 +28,6 @@ const App = () => {
       }
     }
     setList(newList);
-
   }
 
   return (
